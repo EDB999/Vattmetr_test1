@@ -1,0 +1,15 @@
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test.csproj.AssemblyReference.cache
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\MainWindow.g.cs
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\App.g.cs
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test_MarkupCompile.cache
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test_MarkupCompile.lref
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\bin\Debug\vattmetr_test.exe.config
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\bin\Debug\vattmetr_test.exe
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\bin\Debug\vattmetr_test.pdb
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\MainWindow.baml
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test.g.resources
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test.Properties.Resources.resources
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test.csproj.GenerateResource.cache
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test.csproj.CoreCompileInputs.cache
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test.exe
+C:\Users\EDB\source\repos\vattmetr_test\vattmetr_test\obj\Debug\vattmetr_test.pdb
